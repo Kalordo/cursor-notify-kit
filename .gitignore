@@ -1,0 +1,10 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Logs / runtime (if someone runs install from inside the repo)
+*.log

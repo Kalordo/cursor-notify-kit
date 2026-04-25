@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "provider": "ntfy",
+  "topic": "__CHANGE_ME_TOPIC__",
+  "server": "https://ntfy.sh"
+}
