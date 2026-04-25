@@ -69,9 +69,10 @@ Logs utiles :
 
 Si rien ne se declenche apres installation, redemarrer Cursor une fois.
 
-## Publier sur GitHub
+## Publier / cloner
 
-Commandes `git` / `gh` et release : **`PUSH.md`**.
+- **Clone :** `git clone https://github.com/Kalordo/cursor-notify-kit.git`
+- **Release GitHub :** tag `v1.0.0`, texte dans `RELEASE_NOTES.md`.
 
 ## Licence et versions
 
